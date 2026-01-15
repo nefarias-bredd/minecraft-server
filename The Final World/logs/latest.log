@@ -1,142 +1,195 @@
-[14:22:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:22:51] [ServerMain/INFO]: Loaded 1174 recipes
-[14:22:51] [ServerMain/INFO]: Loaded 1271 advancements
-[14:22:51] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[14:22:51] [Server thread/INFO]: Loading properties
-[14:22:52] [Server thread/INFO]: This server is running Paper version git-Paper-496 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 7ac24a1 on ver/1.20.4)
-[14:22:52] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:22:52] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:22:52] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[11:25:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:25:32] [ServerMain/INFO]: Loaded 1174 recipes
+[11:25:32] [ServerMain/INFO]: Loaded 1271 advancements
+[11:25:32] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[11:25:32] [Server thread/INFO]: Loading properties
+[11:25:32] [Server thread/INFO]: This server is running Paper version git-Paper-496 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 7ac24a1 on ver/1.20.4)
+[11:25:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:25:33] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:25:33] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[14:22:52] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 4 worker threads, and gen parallelism of 4 threads
-[14:22:52] [Server thread/INFO]: Default game type: SURVIVAL
-[14:22:52] [Server thread/INFO]: Generating keypair
-[14:22:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:22:52] [Server thread/INFO]: Using epoll channel type
-[14:22:52] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[14:22:52] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[14:22:52] [Server thread/INFO]: [dynmap] Loading server plugin dynmap v3.7-beta-5-943
-[14:22:52] [Server thread/INFO]: [dynmap] version=git-Paper-496 (MC: 1.20.4)
-[14:22:52] [Server thread/INFO]: [dynmap] Mod Support API available
-[14:22:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:22:52] [Server thread/INFO]: Preparing level "world"
-[14:22:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:22:53] [Server thread/INFO]: Time elapsed: 113 ms
-[14:22:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:22:53] [Server thread/INFO]: Time elapsed: 29 ms
-[14:22:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:22:53] [Server thread/INFO]: Time elapsed: 509 ms
-[14:22:53] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-beta-5-943
-[14:22:53] [Server thread/INFO]: [dynmap] Added 20 custom biome mappings
-[14:22:53] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
-[14:22:53] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
-[14:22:53] [Server thread/INFO]: [dynmap] Found cwebp at /usr/bin/cwebp and dwebp at /usr/bin/dwebp: webp format enabled
-[14:22:53] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[14:22:54] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
-[14:22:54] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
-[14:22:54] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
-[14:22:54] [Server thread/INFO]: [dynmap] Starting enter/exit processing
-[14:22:54] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
-[14:22:54] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:7777
-[14:22:54] [Server thread/INFO]: [dynmap] version 3.7-beta-5-943 is enabled - core version 3.7-beta-5-943
-[14:22:54] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
-[14:22:54] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
-[14:22:54] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
-[14:22:54] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
-[14:22:54] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[14:22:54] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[14:22:54] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[14:22:55] [Server thread/INFO]: [dynmap] Enabled
-[14:22:55] [Server thread/INFO]: Running delayed init tasks
-[14:22:55] [Server thread/INFO]: Done (3.053s)! For help, type "help"
-[14:22:55] [Server thread/INFO]: Timings Reset
-[14:35:36] [User Authenticator #0/INFO]: UUID of player anubis4fawzi is df30e9dd-9343-4dee-816b-8aa0ffdb0242
-[14:35:37] [Server thread/INFO]: anubis4fawzi joined the game
-[14:35:37] [Server thread/INFO]: anubis4fawzi[/76.32.208.131:1604] logged in with entity id 164 at ([world]3834.8628665600672, 96.0, -16266.474308313896)
-[14:36:33] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[14:42:29] [User Authenticator #1/INFO]: UUID of player fawzi4anubis is d80a47c7-8241-4747-a4d7-992f43ac8ab9
-[14:42:29] [Server thread/INFO]: fawzi4anubis joined the game
-[14:42:29] [Server thread/INFO]: fawzi4anubis[/76.32.208.131:1586] logged in with entity id 1538 at ([world]3835.915985096518, 96.0, -16268.81393296697)
-[14:51:29] [User Authenticator #2/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
-[14:51:29] [Server thread/INFO]: kroberts11 joined the game
-[14:51:29] [Server thread/INFO]: kroberts11[/127.0.0.1:39340] logged in with entity id 2887 at ([world]3832.5, 96.0, -16261.5)
-[14:55:59] [User Authenticator #3/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
-[14:55:59] [Server thread/INFO]: GotchaGR04 joined the game
-[14:55:59] [Server thread/INFO]: GotchaGR04[/97.113.180.20:54514] logged in with entity id 3437 at ([world]3820.5, 96.0, -16261.5)
-[14:56:03] [Server thread/INFO]: anubis4fawzi has made the advancement [Suit Up]
-[15:19:21] [Server thread/INFO]: fawzi4anubis issued server command: /tp kroberts11
-[15:19:21] [Server thread/INFO]: [fawzi4anubis: Teleported fawzi4anubis to kroberts11]
-[15:24:02] [Server thread/INFO]: fawzi4anubis was shot by Skeleton
-[15:24:21] [Server thread/INFO]: fawzi4anubis issued server command: /tp kroberts11
-[15:24:21] [Server thread/INFO]: [fawzi4anubis: Teleported fawzi4anubis to kroberts11]
-[15:25:18] [Server thread/INFO]: fawzi4anubis issued server command: /tp GotchaGR04
-[15:25:18] [Server thread/INFO]: [fawzi4anubis: Teleported fawzi4anubis to GotchaGR04]
-[15:28:34] [Server thread/INFO]: fawzi4anubis issued server command: /tp k
-[15:28:45] [Server thread/INFO]: fawzi4anubis issued server command: /tp kroberts11
-[15:28:45] [Server thread/INFO]: [fawzi4anubis: Teleported fawzi4anubis to kroberts11]
-[15:56:36] [Server thread/INFO]: GotchaGR04 was slain by Phantom
-[15:58:01] [Server thread/INFO]: GotchaGR04 was blown up by Creeper
-[16:11:13] [Server thread/INFO]: kroberts11 issued server command: /time set 0
-[16:11:13] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[16:18:19] [Server thread/INFO]: fawzi4anubis has made the advancement [Diamonds!]
-[16:19:51] [Server thread/INFO]: GotchaGR04 issued server command: /tp anubis4fawzi
-[16:19:51] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to anubis4fawzi]
-[16:19:52] [Server thread/WARN]: GotchaGR04 moved too quickly! -5.657409675947292,63.0,902.6294693714208
-[16:26:07] [Server thread/INFO]: anubis4fawzi has made the advancement [Isn't It Iron Pick]
-[16:27:56] [Server thread/INFO]: fawzi4anubis issued server command: /time set 0
-[16:27:56] [Server thread/INFO]: [fawzi4anubis: Set the time to 0]
-[16:35:40] [Server thread/INFO]: kroberts11 lost connection: Disconnected
-[16:35:40] [Server thread/INFO]: kroberts11 left the game
-[16:35:44] [User Authenticator #4/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
-[16:35:44] [Server thread/INFO]: kroberts11 joined the game
-[16:35:44] [Server thread/INFO]: kroberts11[/127.0.0.1:41800] logged in with entity id 33705 at ([world]3891.764127309844, 78.0, -16360.50777042535)
-[16:35:45] [Server thread/INFO]: fawzi4anubis was blown up by Creeper
-[16:37:39] [Server thread/INFO]: kroberts11 lost connection: Disconnected
-[16:37:39] [Server thread/INFO]: kroberts11 left the game
-[16:38:46] [Server thread/INFO]: fawzi4anubis issued server command: /time set 0
-[16:38:46] [Server thread/INFO]: [fawzi4anubis: Set the time to 0]
-[16:42:02] [Server thread/INFO]: fawzi4anubis issued server command: /tp anubis4fawzi
-[16:42:02] [Server thread/INFO]: [fawzi4anubis: Teleported fawzi4anubis to anubis4fawzi]
-[16:45:41] [Server thread/INFO]: GotchaGR04 has made the advancement [Local Brewery]
-[16:46:01] [Server thread/INFO]: anubis4fawzi has made the advancement [Diamonds!]
-[16:46:23] [Server thread/INFO]: GotchaGR04 issued server command: /tp anubis4fawzi
-[16:46:23] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to anubis4fawzi]
-[16:46:41] [Server thread/INFO]: GotchaGR04 issued server command: /tp fawzi4anubis
-[16:46:41] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to fawzi4anubis]
-[16:46:41] [Server thread/WARN]: GotchaGR04 moved too quickly! 9.837082462204762,-4.0,10.276362757991592
-[16:51:36] [Server thread/INFO]: fawzi4anubis lost connection: Disconnected
-[16:51:36] [Server thread/INFO]: fawzi4anubis left the game
-[16:51:40] [Server thread/INFO]: anubis4fawzi lost connection: Disconnected
-[16:51:40] [Server thread/INFO]: anubis4fawzi left the game
-[16:52:52] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
-[16:52:52] [Server thread/INFO]: GotchaGR04 left the game
-[18:54:08] [Server thread/INFO]: Stopping server
-[18:54:08] [Server thread/INFO]: [dynmap] Disabling dynmap v3.7-beta-5-943
-[18:54:08] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[18:54:08] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[18:54:09] [Server thread/INFO]: [dynmap] Disabled
-[18:54:09] [Server thread/INFO]: Saving players
-[18:54:09] [Server thread/INFO]: Saving worlds
-[18:54:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:54:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[18:54:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[18:54:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[18:54:09] [Server thread/INFO]: [ChunkHolderManager] Saved 6 block chunks, 63 entity chunks, 0 poi chunks in world 'world' in 0.01s
-[18:54:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:54:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[18:54:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[18:54:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[18:54:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[18:54:09] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[18:54:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:54:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[18:54:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[18:54:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[18:54:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[18:54:09] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[18:54:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:54:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[18:54:09] [Server thread/INFO]: Flushing Chunk IO
-[18:54:09] [Server thread/INFO]: Closing Thread Pool
-[18:54:09] [Server thread/INFO]: Closing Server
+[11:25:33] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 4 worker threads, and gen parallelism of 4 threads
+[11:25:33] [Server thread/INFO]: Default game type: SURVIVAL
+[11:25:33] [Server thread/INFO]: Generating keypair
+[11:25:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:25:33] [Server thread/INFO]: Using epoll channel type
+[11:25:33] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[11:25:33] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[11:25:33] [Server thread/INFO]: [dynmap] Loading server plugin dynmap v3.7-beta-5-943
+[11:25:33] [Server thread/INFO]: [dynmap] version=git-Paper-496 (MC: 1.20.4)
+[11:25:33] [Server thread/INFO]: [dynmap] Mod Support API available
+[11:25:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:25:33] [Server thread/INFO]: Preparing level "world"
+[11:25:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:25:34] [Server thread/INFO]: Time elapsed: 578 ms
+[11:25:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:25:34] [Server thread/INFO]: Time elapsed: 41 ms
+[11:25:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:25:34] [Server thread/INFO]: Time elapsed: 14 ms
+[11:25:34] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-beta-5-943
+[11:25:34] [Server thread/INFO]: [dynmap] Added 20 custom biome mappings
+[11:25:34] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[11:25:34] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[11:25:34] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[11:25:35] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[11:25:35] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
+[11:25:35] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[11:25:35] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[11:25:35] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[11:25:35] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:7777
+[11:25:35] [Server thread/INFO]: [dynmap] version 3.7-beta-5-943 is enabled - core version 3.7-beta-5-943
+[11:25:35] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[11:25:35] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
+[11:25:35] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[11:25:35] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[11:25:35] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[11:25:35] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[11:25:35] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[11:25:35] [Server thread/INFO]: [dynmap] Enabled
+[11:25:35] [Server thread/INFO]: Running delayed init tasks
+[11:25:35] [Server thread/INFO]: Done (2.994s)! For help, type "help"
+[11:25:35] [Server thread/INFO]: Timings Reset
+[11:37:16] [User Authenticator #0/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[11:37:16] [Server thread/INFO]: katjarroberts joined the game
+[11:37:16] [Server thread/INFO]: katjarroberts[/97.113.187.54:54720] logged in with entity id 167 at ([world]3827.460976268908, 96.5625, -16269.515585467087)
+[11:38:13] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[11:50:05] [Server thread/INFO]: katjarroberts lost connection: Timed out
+[11:50:05] [Server thread/INFO]: katjarroberts left the game
+[11:51:22] [Server thread/INFO]: kroberts11 (/127.0.0.1:58920) lost connection: Disconnected
+[11:57:07] [User Authenticator #1/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[11:57:07] [Server thread/INFO]: kroberts11 joined the game
+[11:57:07] [Server thread/INFO]: kroberts11[/127.0.0.1:43352] logged in with entity id 1689 at ([world]3898.294834492378, 78.0, -16348.814380789692)
+[11:57:31] [Server thread/INFO]: kroberts11 issued server command: /gamemode creative
+[11:57:31] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
+[12:00:22] [Server thread/INFO]: kroberts11 issued server command: /time set 0
+[12:00:22] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[12:01:51] [User Authenticator #2/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[12:01:51] [Server thread/INFO]: katjarroberts joined the game
+[12:01:51] [Server thread/INFO]: katjarroberts[/97.113.187.54:54788] logged in with entity id 2602 at ([world]3827.460976268908, 96.5625, -16269.515585467087)
+[12:02:16] [User Authenticator #2/INFO]: UUID of player fawzi4anubis is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[12:02:16] [Server thread/INFO]: fawzi4anubis joined the game
+[12:02:16] [Server thread/INFO]: fawzi4anubis[/97.113.187.54:50893] logged in with entity id 2691 at ([world]3836.5, 96.375, -16266.5)
+[12:05:03] [Server thread/INFO]: kroberts11 issued server command: /time set night
+[12:05:03] [Server thread/INFO]: [kroberts11: Set the time to 13000]
+[12:05:26] [Server thread/INFO]: kroberts11 issued server command: /gamemode survival
+[12:05:26] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
+[12:06:31] [Server thread/INFO]: fawzi4anubis was blown up by Creeper
+[12:16:46] [Server thread/INFO]: katjarroberts lost connection: Disconnected
+[12:16:46] [Server thread/INFO]: katjarroberts left the game
+[12:18:40] [User Authenticator #3/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[12:18:40] [Server thread/INFO]: katjarroberts joined the game
+[12:18:40] [Server thread/INFO]: katjarroberts[/97.113.187.54:55094] logged in with entity id 8914 at ([world]3812.7472023490836, 85.0625, -16260.839483730488)
+[12:19:25] [Server thread/WARN]: katjarroberts was kicked due to keepalive timeout!
+[12:19:25] [Server thread/INFO]: katjarroberts lost connection: Timed out
+[12:19:25] [Server thread/INFO]: katjarroberts left the game
+[12:20:24] [User Authenticator #4/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[12:20:40] [Server thread/INFO]: katjarroberts joined the game
+[12:20:40] [Server thread/INFO]: katjarroberts[/97.113.187.54:55108] logged in with entity id 9275 at ([world]3812.7472023490836, 85.0625, -16260.839483730488)
+[12:21:25] [Server thread/WARN]: katjarroberts was kicked due to keepalive timeout!
+[12:21:25] [Server thread/INFO]: katjarroberts lost connection: Timed out
+[12:21:25] [Server thread/INFO]: katjarroberts left the game
+[12:22:10] [User Authenticator #5/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[12:22:11] [Server thread/INFO]: katjarroberts joined the game
+[12:22:11] [Server thread/INFO]: katjarroberts[/97.113.187.54:55130] logged in with entity id 9771 at ([world]3812.7472023490836, 85.0625, -16260.839483730488)
+[12:22:38] [Server thread/WARN]: katjarroberts moved too quickly! -10.32460208700877,-10.188476189299962,2.1779501294367947
+[12:22:56] [Server thread/WARN]: katjarroberts was kicked due to keepalive timeout!
+[12:22:56] [Server thread/INFO]: katjarroberts lost connection: Timed out
+[12:22:56] [Server thread/INFO]: katjarroberts left the game
+[12:25:02] [User Authenticator #6/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[12:25:02] [Server thread/INFO]: katjarroberts joined the game
+[12:25:02] [Server thread/INFO]: katjarroberts[/97.113.187.54:55152] logged in with entity id 11069 at ([world]3810.2922535951598, 85.08834272806114, -16262.57830119364)
+[12:25:46] [Server thread/INFO]: katjarroberts lost connection: Disconnected
+[12:25:46] [Server thread/INFO]: katjarroberts left the game
+[12:25:51] [User Authenticator #6/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[12:25:51] [Server thread/INFO]: katjarroberts joined the game
+[12:25:51] [Server thread/INFO]: katjarroberts[/97.113.187.54:55157] logged in with entity id 11160 at ([world]3810.738931051642, 85.0625, -16262.375392450938)
+[12:26:26] [Server thread/INFO]: katjarroberts lost connection: Disconnected
+[12:26:26] [Server thread/INFO]: katjarroberts left the game
+[12:26:39] [User Authenticator #6/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[12:26:54] [Server thread/INFO]: katjarroberts joined the game
+[12:26:54] [Server thread/INFO]: katjarroberts[/97.113.187.54:55163] logged in with entity id 11248 at ([world]3810.738931051642, 85.0625, -16262.375392450938)
+[12:27:15] [Server thread/INFO]: kroberts11 issued server command: /time set 0
+[12:27:15] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[12:27:39] [Server thread/WARN]: katjarroberts was kicked due to keepalive timeout!
+[12:27:39] [Server thread/INFO]: katjarroberts lost connection: Timed out
+[12:27:39] [Server thread/INFO]: katjarroberts left the game
+[12:28:06] [User Authenticator #7/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[12:28:06] [Server thread/INFO]: katjarroberts joined the game
+[12:28:06] [Server thread/INFO]: katjarroberts[/97.113.187.54:55186] logged in with entity id 11485 at ([world]3810.738931051642, 85.0625, -16262.375392450938)
+[12:28:48] [Server thread/INFO]: katjarroberts lost connection: Disconnected
+[12:28:49] [Server thread/INFO]: katjarroberts left the game
+[12:30:48] [User Authenticator #8/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[12:30:48] [Server thread/INFO]: katjarroberts joined the game
+[12:30:48] [Server thread/INFO]: katjarroberts[/97.113.187.54:55221] logged in with entity id 11891 at ([world]3810.738931051642, 85.0625, -16262.375392450938)
+[12:44:58] [Server thread/INFO]: kroberts11 issued server command: /time set 0
+[12:44:58] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[12:55:11] [User Authenticator #9/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
+[12:55:11] [Server thread/INFO]: GotchaGR04 joined the game
+[12:55:11] [Server thread/INFO]: GotchaGR04[/97.113.187.54:64078] logged in with entity id 19580 at ([world]3805.196270073407, 85.0625, -16261.018811386362)
+[13:02:21] [Server thread/INFO]: fawzi4anubis was impaled by Drowned
+[13:03:48] [Server thread/INFO]: katjarroberts has completed the challenge [Return to Sender]
+[13:07:11] [Server thread/INFO]: GotchaGR04 has made the advancement [Suit Up]
+[13:39:13] [Server thread/INFO]: kroberts11 issued server command: /time set 0
+[13:39:13] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[13:42:36] [Server thread/INFO]: fawzi4anubis drowned while trying to escape Drowned
+[13:43:13] [Server thread/INFO]: katjarroberts tried to swim in lava
+[13:46:38] [Server thread/INFO]: fawzi4anubis lost connection: Disconnected
+[13:46:38] [Server thread/INFO]: fawzi4anubis left the game
+[13:51:16] [Server thread/INFO]: GotchaGR04 was blown up by Creeper
+[13:51:43] [Server thread/INFO]: kroberts11 issued server command: /time set day
+[13:51:43] [Server thread/INFO]: [kroberts11: Set the time to 1000]
+[13:53:31] [Server thread/INFO]: GotchaGR04 issued server command: /gam
+[13:53:37] [Server thread/INFO]: GotchaGR04 issued server command: /gamemode creative
+[13:53:37] [Server thread/INFO]: [GotchaGR04: Set own game mode to Creative Mode]
+[13:55:24] [Server thread/INFO]: GotchaGR04 issued server command: /gamemode survival
+[13:55:24] [Server thread/INFO]: [GotchaGR04: Set own game mode to Survival Mode]
+[14:01:56] [Server thread/INFO]: kroberts11 issued server command: /time set day
+[14:01:56] [Server thread/INFO]: [kroberts11: Set the time to 1000]
+[14:02:34] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
+[14:02:34] [Server thread/INFO]: GotchaGR04 left the game
+[14:05:09] [Server thread/INFO]: kroberts11 was slain by Drowned
+[14:11:31] [Server thread/INFO]: kroberts11 issued server command: /time set day
+[14:11:31] [Server thread/INFO]: [kroberts11: Set the time to 1000]
+[14:22:43] [Server thread/INFO]: kroberts11 issued server command: /time set day
+[14:22:43] [Server thread/INFO]: [kroberts11: Set the time to 1000]
+[14:29:20] [Server thread/INFO]: kroberts11 issued server command: /time set night
+[14:29:20] [Server thread/INFO]: [kroberts11: Set the time to 13000]
+[14:34:40] [Server thread/INFO]: kroberts11 issued server command: /time set day
+[14:34:40] [Server thread/INFO]: [kroberts11: Set the time to 1000]
+[14:35:50] [Server thread/INFO]: kroberts11 issued server command: /tp katjarroberts kroberts11
+[14:35:50] [Server thread/INFO]: [kroberts11: Teleported katjarroberts to kroberts11]
+[14:36:07] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[14:36:07] [Server thread/INFO]: kroberts11 left the game
+[15:04:08] [Server thread/INFO]: Stopping server
+[15:04:08] [Server thread/INFO]: [dynmap] Disabling dynmap v3.7-beta-5-943
+[15:04:08] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[15:04:08] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[15:04:08] [Server thread/INFO]: [dynmap] Saved 13 pending tile renders in world 'world'
+[15:04:08] [Server thread/INFO]: [dynmap] Disabled
+[15:04:08] [Server thread/INFO]: Saving players
+[15:04:08] [Server thread/INFO]: katjarroberts lost connection: Server closed
+[15:04:08] [Server thread/INFO]: katjarroberts left the game
+[15:04:08] [Server thread/INFO]: Saving worlds
+[15:04:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:04:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[15:04:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[15:04:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[15:04:09] [Server thread/INFO]: [ChunkHolderManager] Saved 922 block chunks, 1101 entity chunks, 0 poi chunks in world 'world' in 0.80s
+[15:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:04:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:04:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[15:04:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[15:04:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[15:04:09] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[15:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:04:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:04:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[15:04:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[15:04:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[15:04:09] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[15:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:04:09] [Server thread/INFO]: Flushing Chunk IO
+[15:04:09] [Server thread/INFO]: Closing Thread Pool
+[15:04:09] [Server thread/INFO]: Closing Server

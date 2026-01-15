@@ -1,10 +1,6 @@
 %YAML 1.1
 ---
-'192_168_6_108':
-- fawzi4anubis
 '97_113_4_194':
-- katjarroberts
-'97_113_19_1':
 - katjarroberts
 '192_168_4_108':
 - kroberts11
@@ -12,41 +8,49 @@
 - GotchaGR04
 '76_32_208_176':
 - fawzi4anubis
-'32_219_209_122':
-- katjarroberts
 '76_32_208_131':
 - fawzi4anubis
 - anubis4fawzi
 '172_91_65_102':
 - anubis4fawzi
 - fawzi4anubis
-'192_168_4_54':
-- GotchaGR04
 '192_168_0_20':
 - GotchaGR04
 '172_91_72_147':
 - marikaroberts
-'97_113_162_98':
-- katjarroberts
-'97_113_180_20':
-- GotchaGR04
-'98_97_36_108':
-- katjarroberts
 '192_168_0_23':
 - fawzi4anubis
-'192_168_0_57':
-- katjarroberts
 '192_168_0_117':
 - katjarroberts
 '192_168_6_101':
 - anubis4fawzi
-'192_168_4_96':
-- fawzi4anubis
-'192_168_6_214':
-- katjarroberts
 '192_168_4_42':
 - katjarroberts
 '192_168_6_226':
 - GotchaGR04
+'192_168_6_108':
+- fawzi4anubis
+'97_113_19_1':
+- katjarroberts
+'32_219_209_122':
+- katjarroberts
+'192_168_4_54':
+- GotchaGR04
+'97_113_162_98':
+- katjarroberts
+'97_113_180_20':
+- GotchaGR04
+'97_113_187_54':
+- GotchaGR04
+- katjarroberts
+- fawzi4anubis
+'98_97_36_108':
+- katjarroberts
+'192_168_0_57':
+- katjarroberts
+'192_168_4_96':
+- fawzi4anubis
+'192_168_6_214':
+- katjarroberts
 '127_0_0_1':
 - kroberts11
